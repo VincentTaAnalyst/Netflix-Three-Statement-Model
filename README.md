@@ -17,7 +17,7 @@ Content Asset Management: Identified that Netflix successfully scaled its conten
 Asset Efficiency: Total assets grew from $53.6B in 2024 to $55.6B in 2025, driven primarily by non-current asset increases and reinvested capital.
 
 Technical Documentation & Files
-The core of this project is contained within a single, multi-tabbed Excel workbook. The CSV files included in this repository serve as static previews for web-based viewing.
+The core of this project is contained within a single, multi-tabbed Excel workbook. The XLSX file included in this repository serve as static previews for web-based viewing.
 Three-Statement Model.xlsx: This is the master file. It contains the fully dynamic model with cross-linked formulas between the three primary financial schedules:
   Tab 1 - Income Statement Tab: 3-year historical performance analysis.
   Tab 2 - Balance Sheet Tab: Consolidated assets, liabilities, and equity.
